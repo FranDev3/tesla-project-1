@@ -1,0 +1,93 @@
+body {
+    background-color: #F0F5F9;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: #1E2022;
+    word-spacing: 10px;
+    letter-spacing: 1px;
+    
+}
+
+a :visited {
+    text-decoration: none;
+}
+
+li {
+   list-style: none;
+   text-align: center;
+   display: inline;
+   font-family: Bebas neue;
+   color: #1E2022;
+}
+
+h1 {
+    text-align: center;
+    font-family: Bebas neue;
+    font-size: 30px;
+}
+
+#quote-1 {
+    text-align: center;
+    color: #1E2022;
+    font-family: Satisfy;
+    font-size: 20px;
+}
+
+#quote-2 {
+    text-align: center;
+    color: #1E2022;
+    font-family: Satisfy;
+    font-size: 25px;
+    align-items: center;
+    padding-top: 130px;
+}
+
+.img {
+    text-align: center;
+    
+}
+
+img {
+    border-radius: 5px;
+    width: 50%;
+    height: 50%
+}
+
+h2 {
+    text-align: center;
+    font-family: Bebas neue;
+    font-size: 22px;
+}
+
+.descripcion {
+    font-family: Playfair Display;
+    text-align: center;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: separate;
+    border: 1px solid #1E2022;
+    font-family: Playfair Display;
+    letter-spacing: 1px;
+    margin-top: 50px;
+   border-spacing: 20px;
+
+}
+
+td {
+    text-align: center;
+    word-spacing: 3px;
+
+}
+
+#Nosotros {
+    text-align: center;
+    margin-top: 130px;
+    font-family: Bebas neue;
+}
