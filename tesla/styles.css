@@ -9,7 +9,6 @@ a {
     color: #1E2022;
     word-spacing: 10px;
     letter-spacing: 1px;
-    
 }
 
 a :visited {
@@ -48,7 +47,6 @@ h1 {
 
 .img {
     text-align: center;
-    
 }
 
 img {
@@ -77,13 +75,11 @@ table {
     letter-spacing: 1px;
     margin-top: 50px;
    border-spacing: 20px;
-
 }
 
 td {
     text-align: center;
     word-spacing: 3px;
-
 }
 
 #Nosotros {
